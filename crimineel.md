@@ -48,6 +48,8 @@
 ◦ <b>RolePlay tegen over de politie</b><br>
      ➥ Het schieten op politie mag in de volgende Scenario’s, Bank overval waarin de politie binnenvalt of schiet, In geval van nood (alleen waarschuwing schoten),           Als je een politie onder schot hebt en er komt back-up en het wordt gevaarlijk voor jou en je collega mag je schieten,onnodig schieten is een ban.<br> 
      ➥ Als je op een politie schiet probeer altijd eerst op de benen te schieten! Onnodig politie doodschieten is een ban <br>
+     ➥ Als de overvallers een hostage hebben mag de politie niet binnenvallen, ze mogen pas binnenvallen als er geen hostage aanwezig is of doodgeschoten is.
+    
      
 ◦ <b>Het ontvoeren van Politie</b><br>
      ➥ Het ontvoeren van politie mag pas als er 6 agenten in dienst zijn. <br>
